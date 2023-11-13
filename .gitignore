@@ -1,3 +1,5 @@
 *.pyc
 *.hidden
 *.zip
+*resnet50.data-00000-of-00001
+*resnet50.h5
