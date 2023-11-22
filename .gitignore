@@ -5,3 +5,4 @@
 *resnet50.h5
 *.mp4
 *keras-facenet*
+*pretrained-model*
